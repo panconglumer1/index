@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kursus Pembuatan Pancong Lumer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Kursus Pembuatan Pancong Lumer</h1>
+        <p>Pelajari Cara Membuat Pancong Lumer yang Lezat dan Menggugah Selera!</p>
+    </header>
+    
+    <section id="hero">
+        <img src="https://example.com/pancong-lumer.jpg" alt="Pancong Lumer">
+    </section>
+    
+    <section id="about">
+        <h2>Apa itu Pancong Lumer?</h2>
+        <p>Pancong Lumer adalah variasi dari kue pancong tradisional yang populer di Indonesia, tetapi dengan sentuhan modern yang membuatnya lebih lembut dan lumer di mulut. Kursus ini akan mengajarkan Anda teknik-teknik khusus untuk membuat Pancong Lumer yang sempurna.</p>
+    </section>
+    
+    <section id="benefits">
+        <h2>Mengapa Harus Ikut Kursus Ini?</h2>
+        <ul>
+            <li><strong>Instruktur Berpengalaman:</strong> Dipandu oleh chef profesional dengan pengalaman bertahun-tahun di bidang pastry dan kue tradisional.</li>
+            <li><strong>Materi Lengkap:</strong> Mulai dari pemilihan bahan, teknik pembuatan, hingga tips penyajian.</li>
+            <li><strong>Praktik Langsung:</strong> Setiap peserta akan langsung mempraktikkan setiap langkah, sehingga lebih mudah memahami prosesnya.</li>
+            <li><strong>Sertifikat:</strong> Dapatkan sertifikat setelah menyelesaikan kursus sebagai bukti keahlian Anda.</li>
+            <li><strong>Grup Diskusi:</strong> Bergabung dengan komunitas peserta kursus untuk berbagi pengalaman dan tips.</li>
+        </ul>
+    </section>
+    
+    <section id="schedule">
+        <h2>Jadwal Kursus</h2>
+        <p><strong>Tanggal:</strong> Setiap Sabtu dan Minggu</p>
+        <p><strong>Waktu:</strong> 10:00 - 14:00</p>
+        <p><strong>Lokasi:</strong> Jalan Rasa Lumer No. 123, Jakarta</p>
+    </section>
+    
+    <section id="pricing">
+        <h2>Biaya Kursus</h2>
+        <p><strong>Harga Reguler:</strong> Rp 500.000</p>
+        <p><strong>Diskon Early Bird:</strong> Rp 400.000 (daftar sebelum 10 Juni 2024)</p>
+    </section>
+    
+    <section id="curriculum">
+        <h2>Apa yang Akan Anda Pelajari?</h2>
+        <ol>
+            <li><strong>Pengantar Pancong Lumer:</strong> Sejarah dan variasi Pancong Lumer.</li>
+            <li><strong>Pemilihan Bahan:</strong> Memilih bahan terbaik untuk hasil optimal.</li>
+            <li><strong>Teknik Pembuatan:</strong> Langkah demi langkah pembuatan adonan dan proses pemanggangan.</li>
+            <li><strong>Penyajian:</strong> Teknik penyajian yang menarik dan tips dekorasi.</li>
+        </ol>
+    </section>
+    
+    <section id="registration">
+        <h2>Cara Mendaftar</h2>
+        <ol>
+            <li><strong>Isi Formulir Pendaftaran:</strong> Klik <a href="https://example.com/pendaftaran">di sini</a>.</li>
+            <li><strong>Lakukan Pembayaran:</strong> Ikuti instruksi pembayaran yang akan dikirimkan ke email Anda.</li>
+            <li><strong>Konfirmasi:</strong> Setelah pembayaran, Anda akan menerima email konfirmasi dan detail kursus.</li>
+        </ol>
+    </section>
+    
+    <section id="testimonials">
+        <h2>Testimoni Peserta</h2>
+        <blockquote>
+            "Kursus ini sangat informatif dan menyenangkan! Saya sekarang bisa membuat Pancong Lumer yang selalu disukai oleh keluarga dan teman-teman." - <strong>Ayu, Jakarta</strong>
+        </blockquote>
+        <blockquote>
+            "Instruktur sangat profesional dan sabar. Sangat membantu dalam setiap langkah pembuatan." - <strong>Budi, Bandung</strong>
+        </blockquote>
+    </section>
+    
+    <section id="gallery">
+        <h2>Gambar Produk Pancong Lumer</h2>
+        <div class="gallery">
+            <div>
+                <img src="https://example.com/pancong-lumer1.jpg" alt="Pancong Lumer Varian Coklat">
+                <p>Pancong Lumer Varian Coklat</p>
+            </div>
+            <div>
+                <img src="https://example.com/pancong-lumer2.jpg" alt="Pancong Lumer Varian Keju">
+                <p>Pancong Lumer Varian Keju</p>
+            </div>
+            <div>
+                <img src="https://example.com/pancong-lumer3.jpg" alt="Pancong Lumer Varian Pandan">
+                <p>Pancong Lumer Varian Pandan</p>
+            </div>
+        </div>
+    </section>
+    
+    <footer>
+        <p>Hubungi Kami</p>
+        <p>Email: <a href="mailto:zoroid4@gmail.com">zoroid4@gmail.com</a></p>
+        <p>Telepon: 0812-3456-7890</p>
+        <p>Instagram: <a href="https://instagram.com/kursuspanconglumer" target="_blank">@kursuspanconglumer</a></p>
+    </footer>
+</body>
+</html>
